@@ -1,0 +1,28 @@
+name: jorgesbooks
+favicon: null
+layout_spectrum: 0.3161981226876378
+typography_spectrum: 0.983782215975225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6984075976070017
+  lightness: 0.04203424230217934
+  saturation: 0.07563575566746294
+  rhythmicContrast: 0.8627365382853895
+purpose: []
