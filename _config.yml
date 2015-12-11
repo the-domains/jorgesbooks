@@ -1,7 +1,7 @@
 name: jorgesbooks
 favicon: null
 layout_spectrum: 0.72968
-typography_spectrum: 0.0803
+typography_spectrum: 0.23505
 title: "Jorge's reading list"
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6984075976070017
+    - '#ffffff'
+    - '#141414'
+    - '#535456'
+    - '#878c92'
+    - '#b6c1d3'
+  brandStrength: 0.125
   lightness: 0.125
   saturation: 0.0625
   rhythmicContrast: 0.5
