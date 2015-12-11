@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jorgesbooks]]></title>
-        <description><![CDATA[jorgesbooks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[My reading list]]></title>
+        <description><![CDATA[My reading list]]></description>
+        <link>https://thegrid.ai/jorgesbooks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 13:46:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Dec 2015 14:21:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jorgesbooks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Obstacle is the way]]></title>
+            <description><![CDATA[<article><h1>The Obstacle is the way</h1><p>I like Ryan Holiday. I admire and look up to him despite his young age and often wonder how he has managed to accomplish so much in such a short time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/538a66fada666b044f8f201b4031e2eff8ca9862.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jorgesbooks/the-obstacle-is-the-way/index.html</link>
+            <guid isPermaLink="false">41cb4679-df36-4829-aadd-aaa6362a4585</guid>
+            <pubDate>Fri, 11 Dec 2015 14:21:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Outliers]]></title>
             <description><![CDATA[<article><h1>Outliers</h1><p>I really loved this book. I had heard people refer to it as the "10000 hour rule" book (Gladwell suggests in his book that 10000 hours of practice in any field are a necessary pre-condition to achieve mastery in pretty much any field), but I found it to be much more than that: I would say that his main argument is rather that opportunity is the number one predictor of success. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44dc4a59cc12fef688724a4754c292f3c62a01e0.jpg"></article>]]></description>
-            <link>undefinedoutliers/index.html</link>
+            <link>https://thegrid.ai/jorgesbooks/outliers/index.html</link>
             <guid isPermaLink="false">31bb5db4-4f68-49a7-872c-07d598b00dc0</guid>
             <pubDate>Fri, 11 Dec 2015 13:46:35 GMT</pubDate>
         </item>
