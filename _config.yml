@@ -2,6 +2,7 @@ name: jorgesbooks
 favicon: null
 layout_spectrum: 0.3161981226876378
 typography_spectrum: 0.983782215975225
+title: My reading list
 cta:
   domain: null
   bucket: null
